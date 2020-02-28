@@ -192,6 +192,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "4ff51358145f7ec12e1ce947e1b0efed",
+    "org_level": 0,
+    "title": "C. H. C.",
+    "artist": "tcheb \/ 出前",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "2989ee0519438b7b44b18abfc1f8a0f2",
     "org_level": 11,
     "title": "cold planet (ANOTHER)",
@@ -280,6 +296,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "49f84803b2f84fb3cbaa14ab922fc424",
+    "org_level": 0,
+    "title": "echoes of wind [reverb]",
+    "artist": "ああああ obj:いも",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=233&event=110",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=868",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(level:☆12 by:いも) ズレ　同時押し",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "b7c4b2b39c5cc94883148c9020ef8a84",
     "org_level": 0,
     "title": "EUROBEATアイドル橘花音のテーマ",
@@ -310,6 +342,38 @@
     "org_md5": "",
     "comment": "二重階段,微縦連,皿絡み",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "a7e25c7cc488ef38686dfd037b4efa71",
+    "org_level": 0,
+    "title": "FREEeee! [ANOTHER]",
+    "artist": "犬型ロボ（a.k.a. 48) \/ obj.ATOM",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=150",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(level:★0 by:ATOM) 皿・微縦連",
+    "adddate": "28.2.2020"
+  },
+  {
+    "md5": "05cff3db080866f39756af5f6401dba2",
+    "org_level": 0,
+    "title": "FREEHARDSAMPLE!!!! [KF]",
+    "artist": "take-a-nobu SubAtrist",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=3784",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(level:▼0? by:SubArtist) ズレ",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "3e243d4db522cb416ecf540c7199e03e",
@@ -694,6 +758,25 @@
     "org_md5": "",
     "comment": "15\/05\/04 ☆10から昇格",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "e5a477423ed959a2338c80c19f18af18",
+    "org_level": 11,
+    "title": "Saturday in the Park (Love bms mix)[in summer]",
+    "artist": "roop obj:natsu",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ee3b4b8ce6f4518e309b34294f9695ec",
+      "e5a477423ed959a2338c80c19f18af18"
+    ],
+    "org_md5": "ee3b4b8ce6f4518e309b34294f9695ec",
+    "comment": "",
+    "adddate": "27.2.2020"
   },
   {
     "md5": "337b438f8cedde5385e89d17c60c69eb",
@@ -1306,6 +1389,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "d5a9166408e6c00c6a1fd24862e1044f",
+    "org_level": 1,
+    "title": "Colored [ANOTHER]",
+    "artist": "Yamajet  \/m",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.yamajet.com\/music\/list.html",
+    "url_diff": "http:\/\/page.freett.com\/smbms\/bms_sabun\/colored__7A.bme",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "2707e6b8274e9be7dd3ef76e8d9dfc0c",
     "org_level": 1,
     "title": "Colorful (roop remix) [MANIAC7]",
@@ -1415,6 +1514,22 @@
     "org_md5": "",
     "comment": "微縦連,ズレ,同時押し",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "6113e90293171c4bd5c66ef44557f053",
+    "org_level": 2,
+    "title": "Deadly International [INSANE]",
+    "artist": "Basso obj:Captain",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.geocities.co.jp\/thepriceofsilver\/",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up5050.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "8e18c4cf8dae6243c752179a20452d76",
@@ -1657,6 +1772,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "75c75d52d8f010c7de812d85e4978912",
+    "org_level": 1,
+    "title": "lataia \"DISTANT LOVE\" [ANOTHER]",
+    "artist": "onoken\/mixed. E-NOTHIN'\/m",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/onedrive.live.com\/?cid=F881BCC298BA2E47&id=F881BCC298BA2E47!104",
+    "url_diff": "http:\/\/page.freett.com\/smbms\/bms_sabun\/lataiagr__7A.bme",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "0c8dfa185964518a5e92f4e902adeecc",
     "org_level": 2,
     "title": "lightsphere [HARD]",
@@ -1671,6 +1802,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "5bf67bb1956f9ac4a3209fef477eb7a0",
+    "org_level": 1,
+    "title": "Lonely Cat [PAST]",
+    "artist": "* (Asterisk) 前川みく×多田李衣菜 \/ obj:Ferberite",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=2465",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(level:★1くらい by:Ferberite) 乱打,物量",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "5a44f401755e89b08f8b49df6f9f8967",
@@ -1702,22 +1849,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "隣接、微縦連。\u000aしつこく来るので人によってはキツイかも？\u000a★1～2ぐらい、苦手譜面なので練習に作りました[2014\/5\/16 ズレ修正しました]",
-    "adddate": "26.2.2020"
-  },
-  {
-    "md5": "73d53632d51f7dba303c44dfe588c2b3",
-    "org_level": 12,
-    "title": "MAGNETI MARELLI -7another-",
-    "artist": "naotyu- X 140lia",
-    "folder": "LEVEL 1",
-    "level": "1",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "▲2",
     "adddate": "26.2.2020"
   },
   {
@@ -1895,6 +2026,38 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "3fbe988672b334c2ea135f057e50ae4c",
+    "org_level": 2,
+    "title": "So Fresh So Good [Soda]",
+    "artist": "MINTi BGA: CFAN & Sourlive \/ obj. DK",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=116&event=110",
+    "url_diff": "https:\/\/frozensat.github.io\/sabun\/so_fresh_so_good_DK.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
+    "md5": "d40ee9bc5754ec06900d4bd0fbea84ba",
+    "org_level": 2,
+    "title": "The Green Light [ZOI]",
+    "artist": "早明浦キュウゾウ obj:SUZUKAZEΛ",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/qstol.info\/events\/venue\/detail?event=3&id=13",
+    "url_diff": "https:\/\/dl.dropbox.com\/s\/k5kqd8e74u3mto5\/%5BKyuzo_Sameura%5DThe_Green_Light_zoi.zip?dl=1",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "034fa2f8fb71155952fcfcf3c7d99c09",
@@ -2560,22 +2723,6 @@
     "adddate": "26.2.2020"
   },
   {
-    "md5": "ce5399c8f4535ba937bf9e9c35a16bf4",
-    "org_level": 3,
-    "title": "Disc Jockey MIKE [Cather7]",
-    "artist": "MIKE\/obj.010m010",
-    "folder": "LEVEL 2",
-    "level": "2",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=List_def&event=60",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=589",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(level:★2～4？　◎3？ by:010m010) 皿、低TOTAL",
-    "adddate": "26.2.2020"
-  },
-  {
     "md5": "29f5eb984d14420f053407d20c1f14d1",
     "org_level": 2,
     "title": "DOLL [F]",
@@ -2784,6 +2931,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "d7179521b0a3257e4dc246ce591bd5fe",
+    "org_level": 3,
+    "title": "resta del tramonto [Lunatic]",
+    "artist": "noctie* Illust:おっぱさん obj:chinpann",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "http:\/\/yaruki0.sakura.ne.jp\/event\/ondanyugi5\/",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "7a9e1a818cb07c49ef12f220f3facf95",
     "org_level": 3,
     "title": "RiZE UP FUTURE [Dif]",
@@ -2910,6 +3073,22 @@
     "org_md5": "",
     "comment": "(level:★3 by:SUZUKAZEΛ) 乱打,高速階段,皿複合,BGI同梱",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "5d591e06fb2716b2f34014eeec27f2c7",
+    "org_level": 3,
+    "title": "Whitescape (hyper)",
+    "artist": "M-kani",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "cd5c6f97fed6929cc5f28217c80f641e",
@@ -4736,6 +4915,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "bdaf57214689957db44248bc31a5d7f2",
+    "org_level": 6,
+    "title": "Listen!! -nrg mix- [HARD]",
+    "artist": "remixed celas \/差分　赤い人",
+    "folder": "LEVEL 4",
+    "level": "4",
+    "lr2_bmsid": "126398",
+    "url": "",
+    "url_diff": "http:\/\/akred.web.fc2.com\/bmsfile\/listen-HARD.bme",
+    "name_diff": "右クリック保存",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "fc138c8e4968db9123324b95e1211982",
     "org_level": 7,
     "title": "Lumos (BMS Edit) [Stardust]",
@@ -5326,6 +5521,22 @@
     "org_md5": "",
     "comment": "超高速乱打。低速。ラス殺し。",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "a994502e6c12294900777d02744672ce",
+    "org_level": 6,
+    "title": "白い星光-Свет белой звезды- [EX]",
+    "artist": "おみー \/ obj.k-spin",
+    "folder": "LEVEL 4",
+    "level": "4",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=22&event=101",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up5500.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "31fec89a397e270f1540fe2a160c01b4",
@@ -6582,6 +6793,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "8b65981d47326df9b58f99e2c88ae779",
+    "org_level": 11,
+    "title": "I'm garage!! [NEXT]",
+    "artist": "myshrd feat.AMAZING MAN BGA:楼妃巫女 \/ obj:Sar",
+    "folder": "LEVEL 6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "http:\/\/colosseo.nekokan.dyndns.info\/c04_shuffle3\/detail\/view\/3\/",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up6581.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "55872fb577c099d28051938a4fe1cb85",
     "org_level": 11,
     "title": "Jade Star [壊れ物の人形]",
@@ -6810,6 +7037,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "9ae40148ddd0e98c2c3e9a75f7e912ca",
+    "org_level": 10,
+    "title": "OUTERSPACE RHYTHMSTAR (EX)",
+    "artist": "Nankumo (obj:k)",
+    "folder": "LEVEL 6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.geocities.jp\/nankumo_2565\/",
+    "url_diff": "http:\/\/blacktrain.hp.infoseek.co.jp\/bmsuploader.html",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "f4875ac9a8bd4d5498aa2ac80f8caf2f",
     "org_level": 9,
     "title": "P.S : Plasma Strike [Black-A]",
@@ -6872,6 +7115,38 @@
     "org_md5": "",
     "comment": "(level:★10～11 by:SUZUKAZEΛ) 微縦連,乱打,皿絡み",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "181db68fc0596d0eb42b0a10c7097415",
+    "org_level": 11,
+    "title": "siete colores brillo e sonido [Max]",
+    "artist": "azu \/ obj:980円の人",
+    "folder": "LEVEL 6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=24&event=72",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up4114.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
+    "md5": "3d84290af0c1b70f93d3e97a14f91143",
+    "org_level": 10,
+    "title": "Stimulant Lollipop [宇宙味]",
+    "artist": "TRIAL \/ obj:NASA",
+    "folder": "LEVEL 6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=302&event=116",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=1233",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "4d3c549822394d8df05c918a24ce5d46",
@@ -7466,6 +7741,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "be6c6f76e7989e54b1159b2b313dbb1a",
+    "org_level": 13,
+    "title": "Listen!! -nrg mix- [HARDEST]",
+    "artist": "remixed celas \/差分　赤い人",
+    "folder": "LEVEL 7",
+    "level": "7",
+    "lr2_bmsid": "126404",
+    "url": "",
+    "url_diff": "http:\/\/akred.web.fc2.com\/bmsfile\/listen-HARDEST.bme",
+    "name_diff": "右クリック保存",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "16a9b048a03f4ff2da008cdaf5f4f24f",
     "org_level": 12,
     "title": "MAGNETI MARELLI -7perfect-",
@@ -7946,6 +8237,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "3650c3fe2445bd29288c57395d6aa038",
+    "org_level": 16,
+    "title": "I'm garage!! [NEXT+]",
+    "artist": "myshrd feat.AMAZING MAN BGA:楼妃巫女 \/ obj:Sar",
+    "folder": "LEVEL 8",
+    "level": "8",
+    "lr2_bmsid": null,
+    "url": "http:\/\/colosseo.nekokan.dyndns.info\/c04_shuffle3\/detail\/view\/3\/",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up6581.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
+  },
+  {
     "md5": "6f9693c5c1e9603da677aa31f299e1c3",
     "org_level": 14,
     "title": "Lapis A⇒Side [Maniac7]",
@@ -8104,6 +8411,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "f5153dd421d47863f9397223cf7bb0dc",
+    "org_level": 13,
+    "title": "winged dolphin [BlackMax]",
+    "artist": "ぽんきち \/ obj:980円の人",
+    "folder": "LEVEL 8",
+    "level": "8",
+    "lr2_bmsid": "190287",
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=29&event=89",
+    "url_diff": "https:\/\/dl.dropbox.com\/s\/nl7uai6w9xruhx2\/winged_dolphin_%5BMax%5D%5BBlackMAX%5D.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "乱打、ズレ、多重押し\u000a後半ゲー、そこまで速い叩きが無いのでボチボチなレベルになりました\u000a[BlackMax]\u000aマシマシの物量ですけど★14のつもりで作ったんですが弱かった。\u000aBGは、描かせてもらいました。",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "d0f3f53f70a80f2152591746c390da77",
@@ -8594,6 +8917,22 @@
     "org_md5": "",
     "comment": "sara_cherry_doll_a",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "ce5399c8f4535ba937bf9e9c35a16bf4",
+    "org_level": 3,
+    "title": "Disc Jockey MIKE [Cather7]",
+    "artist": "MIKE\/obj.010m010",
+    "folder": "LEVEL ◎",
+    "level": "◎",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=List_def&event=60",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=589",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "(level:★2～4？　◎3？ by:010m010) 皿、低TOTAL",
+    "adddate": "27.2.2020"
   },
   {
     "md5": "a29febfcc4cf4f1627a79d48d452009e",
