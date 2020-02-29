@@ -264,6 +264,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "d5a9166408e6c00c6a1fd24862e1044f",
+    "org_level": 1,
+    "title": "Colored [ANOTHER]",
+    "artist": "Yamajet  \/m",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.yamajet.com\/music\/list.html",
+    "url_diff": "http:\/\/page.freett.com\/smbms\/bms_sabun\/colored__7A.bme",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
+  },
+  {
     "md5": "ebbe167813f89ba9fcebee36d225310e",
     "org_level": 11,
     "title": "consider numbers 3 (7keys Another)",
@@ -632,6 +648,26 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "69575e85979cf09a61df95233d0e0852",
+    "org_level": 11,
+    "title": "Pastel Colorful Freshable",
+    "artist": "Smile storm BGA：心太, Illust：りんか \/ obj：saaa",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "69575e85979cf09a61df95233d0e0852",
+      "6d66b7070a3d8b5f71c7caeb091672d3",
+      "2e5da1d410feffedcf029e4aaf146a7b"
+    ],
+    "org_md5": "69575e85979cf09a61df95233d0e0852",
+    "comment": "",
+    "adddate": "29.2.2020"
+  },
+  {
     "md5": "a1a29f6e38fed15bd17b84b5caf8a386",
     "org_level": 0,
     "title": "Payonian Groove [ANOTHER]",
@@ -762,7 +798,7 @@
   {
     "md5": "e5a477423ed959a2338c80c19f18af18",
     "org_level": 11,
-    "title": "Saturday in the Park (Love bms mix)[in summer]",
+    "title": "Saturday in the Park (Love bms mix) [in summer]",
     "artist": "roop obj:natsu",
     "folder": "LEVEL 0",
     "level": "0",
@@ -955,6 +991,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "3162ff4e46e4f65e5d044cbc1a04b53b",
+    "org_level": 0,
+    "title": "ΦReboot [ANOTHER]",
+    "artist": "くるやのぶ BGA:CORAL",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
   },
   {
     "md5": "21d50f01b479f73ec2933299249b1008",
@@ -1389,22 +1441,6 @@
     "adddate": "26.2.2020"
   },
   {
-    "md5": "d5a9166408e6c00c6a1fd24862e1044f",
-    "org_level": 1,
-    "title": "Colored [ANOTHER]",
-    "artist": "Yamajet  \/m",
-    "folder": "LEVEL 1",
-    "level": "1",
-    "lr2_bmsid": null,
-    "url": "http:\/\/www.yamajet.com\/music\/list.html",
-    "url_diff": "http:\/\/page.freett.com\/smbms\/bms_sabun\/colored__7A.bme",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "28.2.2020"
-  },
-  {
     "md5": "2707e6b8274e9be7dd3ef76e8d9dfc0c",
     "org_level": 1,
     "title": "Colorful (roop remix) [MANIAC7]",
@@ -1612,6 +1648,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "a938853666ee3e96a6e9571a44ac15bf",
+    "org_level": 2,
+    "title": "EOS -aurora-",
+    "artist": "ginkiha \/ selene.",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=300&event=83",
+    "url_diff": "",
+    "name_diff": "差分",
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "修正予定",
+    "adddate": "29.2.2020"
+  },
+  {
     "md5": "e56c4e1cd700baef45670a7d0ee0aa68",
     "org_level": 1,
     "title": "EUROPEAN AVIATION -sky-",
@@ -1626,6 +1678,22 @@
     "org_md5": "",
     "comment": "中速乱打。後半に縦連と皿複合。高トータルでラストは1P当たり。(8\/1)▼2→▼1",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "741055d4142f1051c442ca4b94394231",
+    "org_level": 2,
+    "title": "Flinty [INSANE]",
+    "artist": "GUANA × Ratif obj. Lapis",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "b2d6e7f8bf252cf8375ebc848f427e45",
@@ -3043,6 +3111,30 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "549fdba54a098305cfaf79ccaba8875c",
+    "org_level": 12,
+    "title": "SUper.TEmplate.MArketing [7KEYS ANOTHER]",
+    "artist": "hapi⇒ feat. 初音ミク",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "10e8b2c59fa7f113b0c7d15beae17baf",
+      "d584c7990039674e1785fad66b01e865",
+      "549fdba54a098305cfaf79ccaba8875c",
+      "6df12c0cda7dd3d6307f670a4717be7b",
+      "c63c878df8c34f4dbfbc078fea1d756e",
+      "0cae5b6a9b55badce1666fea251049ee",
+      "9576b8e6e8fe7a7b6fdf0235c43c78b9"
+    ],
+    "org_md5": "10e8b2c59fa7f113b0c7d15beae17baf",
+    "comment": "",
+    "adddate": "29.2.2020"
+  },
+  {
     "md5": "ecffa4fce5ece71bf65067d1e3a38590",
     "org_level": 3,
     "title": "The Azure Port",
@@ -4227,6 +4319,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "718467dcd656d7e76dc5fafe20bba653",
+    "org_level": 4,
+    "title": "ΦReboot [PIETHER]",
+    "artist": "くるやのぶ BGA:CORAL obj:YOURI",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=95&event=127",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=03958",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
+  },
+  {
     "md5": "d62d5a840c4d5f0d68792159bc07f992",
     "org_level": 5,
     "title": "エピトゥリカの祀 [PIETHER]",
@@ -4369,6 +4477,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "15b9da504bab6ee1cf7122fe8e36a08e",
+    "org_level": 4,
+    "title": "煉情ミスティフィリア [Another]",
+    "artist": "Sakamiya feat.一花 mov:tolz img:ttv",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=2&event=127",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
   },
   {
     "md5": "6ad63bdfce1072784d7903ca542e7608",
@@ -5009,6 +5133,22 @@
     "org_md5": "",
     "comment": "(level:★6 by:Lapis) 皿複合、乱打、縦連、皿ラス殺し",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "cb7b3d08326adaf0e9bee65de5353dda",
+    "org_level": 4,
+    "title": "Midnight Flux",
+    "artist": "ProjectG",
+    "folder": "LEVEL 4",
+    "level": "4",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=259&event=127",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "BOFXV、ズレ、乱打 || BGA修正版 \/ please DL new version",
+    "adddate": "28.2.2020"
   },
   {
     "md5": "1f510dde3be37c0263fb48f9a4a2fda3",
@@ -6471,6 +6611,22 @@
     "org_md5": "",
     "comment": "(level:★8 by:Kojou Chihiro) 縦連,リズム難,皿,認識難,N判定,低TOTAL(65%)",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "7ec4bc0106ae99700858664391bdc340",
+    "org_level": 8,
+    "title": "飴色オモイデ [rainy day]",
+    "artist": "Nakaiankow feat. 流音ヨゾラ Movie:MUICHIGO \/ obj:rat",
+    "folder": "LEVEL 5",
+    "level": "5",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
   },
   {
     "md5": "1b2b13648290918435a98f8577241cf5",
@@ -8011,6 +8167,22 @@
     "org_md5": "",
     "comment": "同時押し,皿複合,微縦連",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "599a92b6898c85eff4b08d5915ec5426",
+    "org_level": 13,
+    "title": "ΦReboot [AGX]",
+    "artist": "くるやのぶ BGA:CORAL obj:AGX",
+    "folder": "LEVEL 7",
+    "level": "7",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
   },
   {
     "md5": "8cceb0b089bb5984b81ba0acd064d31a",
