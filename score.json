@@ -1,5 +1,69 @@
 [
   {
+    "md5": "09a61ad27c1cd78c549eb93929f104d9",
+    "org_level": 11,
+    "title": "SHOOT MY BROKEN DISCO [LN+ extra]",
+    "artist": "cybermiso(obj.kout)",
+    "folder": "LEVEL -1",
+    "level": "-1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/dl.dropbox.com\/u\/45360077\/watasino_h0-mupe-ji.html",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "1.3.2020"
+  },
+  {
+    "md5": "beef57c8daaf029eb57b1effb85f193d",
+    "org_level": 0,
+    "title": "SUPER STAR DISCO [ANOTHER]",
+    "artist": "knot \/ obj : えらる",
+    "folder": "LEVEL -1",
+    "level": "-1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/www.dropbox.com\/s\/my8uy828r6qroqj\/knot10%5Bone_star_disco_hq%5D.zip",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up3700.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "1.3.2020"
+  },
+  {
+    "md5": "0bfd26e9b53de5f96e7c677602058bff",
+    "org_level": 0,
+    "title": "Uranus (ANOTHER)",
+    "artist": "Est",
+    "folder": "LEVEL -1",
+    "level": "-1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/estish.nobody.jp\/",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "1.3.2020"
+  },
+  {
+    "md5": "81db5d8e8e6d2d9df3f0d0123783d6d3",
+    "org_level": 0,
+    "title": "現実をカットアップしてみた [現実?カットアップ?なにそれおいしいの?]",
+    "artist": "Yu^ta obj.にゃむ",
+    "folder": "LEVEL -1",
+    "level": "-1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/famousbms.web.fc2.com\/",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=2068",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "1.3.2020"
+  },
+  {
     "md5": "f531579b1fa48718ae6ad5b999ef01b6",
     "org_level": 0,
     "title": "[OpenMRF]AfternoonTea(BMSEdit) [sagANOTHER]",
@@ -92,7 +156,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "▲2",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -124,7 +188,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆11上位 by:screw) 局所難あり",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -142,22 +206,6 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
-  },
-  {
-    "md5": "9363ad1721ed8cde5b974cbc12890ff6",
-    "org_level": 0,
-    "title": "Battle on the 48 Bars [SP ANOTHER]",
-    "artist": "Asahi vs. Miller obj. Rolling Rock",
-    "folder": "LEVEL 0",
-    "level": "0",
-    "lr2_bmsid": null,
-    "url": "",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "27.2.2020"
   },
   {
     "md5": "f2a89efa13e211e13a1281b2f160f707",
@@ -220,7 +268,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "▲2",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -292,7 +340,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "<a href='http:\/\/nekokan.dyndns.info\/~lobsak\/genoside\/'>GENOSIDE<\/a>段位認定　八段2曲目 ▲2",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -308,8 +356,34 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12、★7、★16、★22 by:selene.) 低難易度2譜面16分物量、高難易度2譜面ガチ押し　Otherリスペクト",
+    "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "902edc756b4967286081d6a14720f01f",
+    "org_level": 11,
+    "title": "Distance Fields [7k Insane]",
+    "artist": "isocosa",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "752daebd97fd2d03e70e18f182797677",
+      "31ea72ea9be2fa0f4cd55ef6190b1e80",
+      "b09ac0f7a1e77d5bdce861d2b5142613",
+      "49ae712723dd2e242ab6422696960c29",
+      "69c0fb84611d8f378a71e6ce4ed0b4f1",
+      "6fb953014f680e33ac4a788c10af2cfe",
+      "a29d8d95c5bf4bf32490d38ed58dd126",
+      "902edc756b4967286081d6a14720f01f",
+      "2bcace5d969bd0088405ed73aba4e5fe"
+    ],
+    "org_md5": "752daebd97fd2d03e70e18f182797677",
+    "comment": "",
+    "adddate": "1.3.2020"
   },
   {
     "md5": "49f84803b2f84fb3cbaa14ab922fc424",
@@ -324,7 +398,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12 by:いも) ズレ　同時押し",
+    "comment": "",
     "adddate": "28.2.2020"
   },
   {
@@ -340,7 +414,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "階段、皿複合。トータルやや低め",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -356,7 +430,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "二重階段,微縦連,皿絡み",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -372,7 +446,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★0 by:ATOM) 皿・微縦連",
+    "comment": "",
     "adddate": "28.2.2020"
   },
   {
@@ -388,7 +462,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:▼0? by:SubArtist) ズレ",
+    "comment": "",
     "adddate": "28.2.2020"
   },
   {
@@ -424,6 +498,31 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "2383447daed41388d903c38f8f622908",
+    "org_level": 11,
+    "title": "GRID",
+    "artist": "Yosk!",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "344f3eb3b1f1fc279f68307e0110931e",
+      "988fa83abac6728aeab5c843a38cd7f3",
+      "bb2076f044aa9a5676d1a69b443ec2b6",
+      "446789361a5b1b142de0754c859464ae",
+      "2383447daed41388d903c38f8f622908",
+      "d1aafa2d6c94d282f950b4359586c49f",
+      "22b3ea817d5b275fc8f6647a7d8a277a",
+      "de683d20b93f5bc68edc3f1b9c4e5d3f"
+    ],
+    "org_md5": "344f3eb3b1f1fc279f68307e0110931e",
+    "comment": "Be-Music West",
+    "adddate": "1.3.2020"
+  },
+  {
     "md5": "d3ec589a6dcaf707f29c11ec6cfa6567",
     "org_level": 0,
     "title": "G-SHOCK [TIME-SHOCK]",
@@ -436,7 +535,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12 by:paraph) 同時押し、皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -484,7 +583,7 @@
     "name_diff": "black train",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿複合,乱打,後半難 (8\/1)▽12-→▼0",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -500,7 +599,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12 by:azucar) 物量、CN",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -516,7 +615,7 @@
     "name_diff": "OneDrive",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "W9S2015エディット祭",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -564,7 +663,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12 by:Vya) 同時押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -580,7 +679,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★0～1 by:SUZUKAZEΛ) 微縦連,同時押し,皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -612,7 +711,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿地帯無理でもクリア可能",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -716,22 +815,6 @@
     "adddate": "26.2.2020"
   },
   {
-    "md5": "439284b795f5325af324514947e7e4d1",
-    "org_level": 0,
-    "title": "Rainbow Night,Sky Highway [7KEY]",
-    "artist": "efry obj : BAECON",
-    "folder": "LEVEL 0",
-    "level": "0",
-    "lr2_bmsid": null,
-    "url": "https:\/\/skydrive.live.com\/?cid=2E0B6A331309387C&amp;id=2E0B6A331309387C%21107",
-    "url_diff": "http:\/\/monaka1374.game-ss.com\/bms\/convert7",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "26.2.2020"
-  },
-  {
     "md5": "8057c8da5be1bd586ae0a6ca68de2c9a",
     "org_level": 11,
     "title": "Romancecar (Kukan Junkyu Edit) [7keys Another]",
@@ -744,7 +827,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "▲2",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -792,7 +875,7 @@
     "name_diff": "Ym1024",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "15\/05\/04 ☆10から昇格",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -831,22 +914,6 @@
     "adddate": "26.2.2020"
   },
   {
-    "md5": "09a61ad27c1cd78c549eb93929f104d9",
-    "org_level": 11,
-    "title": "SHOOT MY BROKEN DISCO [LN+ extra]",
-    "artist": "cybermiso(obj.kout)",
-    "folder": "LEVEL 0",
-    "level": "0",
-    "lr2_bmsid": null,
-    "url": "http:\/\/dl.dropbox.com\/u\/45360077\/watasino_h0-mupe-ji.html",
-    "url_diff": "",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "",
-    "adddate": "26.2.2020"
-  },
-  {
     "md5": "4868f0d5eb33a8305b4cc46a377e2abb",
     "org_level": 0,
     "title": "sincere smile",
@@ -875,7 +942,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sl0~1 (no misalignment)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -893,24 +960,8 @@
       "f2867b3b8b78e8855b79b1b205beeadb"
     ],
     "org_md5": "f2867b3b8b78e8855b79b1b205beeadb",
-    "comment": "(6\/15)▽11→▽11+",
-    "adddate": "26.2.2020"
-  },
-  {
-    "md5": "beef57c8daaf029eb57b1effb85f193d",
-    "org_level": 0,
-    "title": "SUPER STAR DISCO [ANOTHER]",
-    "artist": "knot \/ obj : えらる",
-    "folder": "LEVEL 0",
-    "level": "0",
-    "lr2_bmsid": null,
-    "url": "http:\/\/www.dropbox.com\/s\/my8uy828r6qroqj\/knot10%5Bone_star_disco_hq%5D.zip",
-    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up3700.zip",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
     "comment": "",
-    "adddate": "27.2.2020"
+    "adddate": "26.2.2020"
   },
   {
     "md5": "f633dc435a039844f9672cb3eb7b3bb3",
@@ -970,22 +1021,6 @@
     "lr2_bmsid": null,
     "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=61&event=116",
     "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=3550",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(level:☆11(sl0,▼0) by:shimizushi) 前半難,LN",
-    "adddate": "26.2.2020"
-  },
-  {
-    "md5": "0bfd26e9b53de5f96e7c677602058bff",
-    "org_level": 0,
-    "title": "Uranus (ANOTHER)",
-    "artist": "Est",
-    "folder": "LEVEL 0",
-    "level": "0",
-    "lr2_bmsid": null,
-    "url": "http:\/\/estish.nobody.jp\/",
-    "url_diff": "",
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
@@ -1069,7 +1104,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★0、★5 by:sagoo) ゆかりさんゆかりさん",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1117,7 +1152,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "軸,皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1133,7 +1168,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★0(sl0)? by:星野ひなた) 縦連打、ズレ、みゃー姉！",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1149,7 +1184,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★0 ~ ★1 by:Limite) 皿、同時押し、乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1166,22 +1201,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "",
-    "adddate": "26.2.2020"
-  },
-  {
-    "md5": "81db5d8e8e6d2d9df3f0d0123783d6d3",
-    "org_level": 0,
-    "title": "現実をカットアップしてみた [現実?カットアップ?なにそれおいしいの?]",
-    "artist": "Yu^ta obj.にゃむ",
-    "folder": "LEVEL 0",
-    "level": "0",
-    "lr2_bmsid": null,
-    "url": "http:\/\/famousbms.web.fc2.com\/",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=2068",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(level:★0 by:にゃむ) 同時押し、縦連",
     "adddate": "26.2.2020"
   },
   {
@@ -1245,7 +1264,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2 by:Rche) 乱打、同時押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1293,23 +1312,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "有名曲ではあるがソフランや停止あるので注意。ラスト白鍵トリルに皿が絡んでとりづらい配置。",
-    "adddate": "26.2.2020"
-  },
-  {
-    "md5": "d4fcc4230f3c58e41b7d303d61f78f94",
-    "org_level": 1,
-    "title": "BAILAGUA JIRA [EX]",
-    "artist": "MITCH DOWNVELL \/ obj. AXION",
-    "folder": "LEVEL 1",
-    "level": "1",
-    "lr2_bmsid": null,
-    "url": "http:\/\/starkey.ivory.ne.jp\/bemusicwest\/bmw2\/detail\/view\/9\/",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=3894",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(level:★1~2? by:AXION) 皿複合、NORMAL判定",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1341,7 +1344,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2弱 by:kaguya) かんたん",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1405,7 +1408,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し、皿絡み",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1437,7 +1440,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2~3 by:???) 00095の譜面のBGAが映らないという問題がありましたので修正いたしました…",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1468,7 +1471,7 @@
       "2707e6b8274e9be7dd3ef76e8d9dfc0c"
     ],
     "org_md5": "f711116c6c76720614d788f81133aceb",
-    "comment": "",
+    "comment": "[obj. vi] NORMAL, chords, scratching",
     "adddate": "26.2.2020"
   },
   {
@@ -1532,7 +1535,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "PABAT!2019、★2?、連皿、同時押し、低TOTAL",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1548,7 +1551,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "微縦連,ズレ,同時押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1628,7 +1631,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1644,7 +1647,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "微ズレ系の譜面。中盤ソフラン。TOTALやや高め。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1660,7 +1663,7 @@
     "name_diff": "差分",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "修正予定",
+    "comment": "",
     "adddate": "29.2.2020"
   },
   {
@@ -1676,7 +1679,7 @@
     "name_diff": "VF",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速乱打。後半に縦連と皿複合。高トータルでラストは1P当たり。(8\/1)▼2→▼1",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1756,8 +1759,34 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打,皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "c568cbfbf8f5595a1f7bc73549c64f59",
+    "org_level": 12,
+    "title": "INLINE [7k Insane]",
+    "artist": "isocosa",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "95b10928397eac3631271d5b5a0ab509",
+      "c4f9a979e968eadc73c200894d8fa9e7",
+      "3f05c0719fd51f45241c62cce6140179",
+      "6941c0c2258c1e0bf9de80f607e58f34",
+      "3e6bde3e860332b30d8dcf9ed67c5df1",
+      "2bb17ac29d0578268c2a1af5637d35d5",
+      "fe3c8fbbf6f5db19a715225fd6883781",
+      "c568cbfbf8f5595a1f7bc73549c64f59",
+      "c38ad42257baee80e54adfd2b83f9f97"
+    ],
+    "org_md5": "95b10928397eac3631271d5b5a0ab509",
+    "comment": "PABAT! 2020",
+    "adddate": "1.3.2020"
   },
   {
     "md5": "dfc62b3e67875d8f273891c7eff513fd",
@@ -1788,7 +1817,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿複合,同時押し,微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1804,7 +1833,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1 by:DK) 物量, 連打, 低TOTAL",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1884,7 +1913,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1くらい by:Ferberite) 乱打,物量",
+    "comment": "",
     "adddate": "28.2.2020"
   },
   {
@@ -1900,7 +1929,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1,★7 by:Kojou Chihiro) トリル,階段,中盤難,局所難,低TOTAL(約65%)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1916,7 +1945,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "隣接、微縦連。\u000aしつこく来るので人によってはキツイかも？\u000a★1～2ぐらい、苦手譜面なので練習に作りました[2014\/5\/16 ズレ修正しました]",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1932,7 +1961,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12~★1 by:Lennon) NORMAL判定皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1964,7 +1993,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BOFXV、皿、トリル、LN",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -1996,7 +2025,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2~3 by:Lennon) 両手トリル、乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2012,7 +2041,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2～3? by:selene.) 乱打、ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2032,6 +2061,28 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "187ea1b8cf560f5f23f4f8b875b028cd",
+    "org_level": 2,
+    "title": "PAPAYA CHAMPLOO 2010 [extrema]",
+    "artist": "DOT96 morigasigeru [obj. vi]",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "f49597da0431e123b796aa6d60130ec2",
+      "e988257d14258102f261aed977c6ccbe",
+      "730a3611b88524365fa42306c501882a",
+      "d515da2ccc71b820c59d62a2ca51b59d",
+      "187ea1b8cf560f5f23f4f8b875b028cd"
+    ],
+    "org_md5": "f49597da0431e123b796aa6d60130ec2",
+    "comment": "[obj. vi] BOF2010 - scratching, difficult ending",
+    "adddate": "1.3.2020"
+  },
+  {
     "md5": "61519b432a4912f0b8d3258803b02ea1",
     "org_level": 1,
     "title": "Poppin' Shower",
@@ -2044,7 +2095,7 @@
     "name_diff": "同梱譜面(another☆12)",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "高速、皿、トリル。皿の枚数がかなり多い上に鍵盤の物量もそれなりにあるので複合力が必要。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2060,7 +2111,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1 by:DK) 乱打 \/ sl0~1",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2076,7 +2127,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:~★2 by:w)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2094,6 +2145,27 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "08d5195f34a425ea7d545ba6cf39c074",
+    "org_level": 11,
+    "title": "reflection [7KEYS ANOTHER]",
+    "artist": "Kyuzo Sameura",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "08d5195f34a425ea7d545ba6cf39c074",
+      "e21101563837e19c8c8daabcff30e30a",
+      "a1fcb4d7f7047cb18abbcb0436b82fa0",
+      "c9c56d3d441b4ea316e6e987f728af60"
+    ],
+    "org_md5": "08d5195f34a425ea7d545ba6cf39c074",
+    "comment": "",
+    "adddate": "1.3.2020"
   },
   {
     "md5": "3fbe988672b334c2ea135f057e50ae4c",
@@ -2140,7 +2212,7 @@
     "name_diff": "IR先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "★1 to ★24 -The Second-",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2172,7 +2244,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2 by:monaka) 乱打、終盤難",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2188,7 +2260,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2~3 by:YAN*TS) 同時押し、縦連、連皿、最後ディレイ殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2204,7 +2276,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し,皿複合,微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2236,7 +2308,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1 by:monaka) 皿複合、トリル",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2252,7 +2324,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "跳ね、微縦連、皿複合。\u000aなんだろう、全体的にやらしくノーマル判定かと疑ってしまうｗ\u000a微妙な譜面に仕上がりました・・（呆れ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2284,7 +2356,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2～3 by:SUZUKAZEΛ) 乱打,ズレ,微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2332,7 +2404,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1 by:はくれえむ) 物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2364,7 +2436,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2～3 by:monaka) 桜華月の曲変更差分、追加音源が必要",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2444,7 +2516,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1~3 by:???) 電波",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2460,7 +2532,7 @@
     "name_diff": "ξ青龍ξ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up2947",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2508,7 +2580,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1~2,★8~9,★16~17 by:Restia) 同時押し,連打,無キ―音少しあり,低速爆打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2540,7 +2612,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3～4？ by:SUZUKAZEΛ) 同時押し,微縦連,乱打,トリル",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2572,7 +2644,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3 by:tigris) 同時押しとか乱打とかいろいろ風味（02257の譜面名の修正のみ。気になる方はどうぞ）",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2627,7 +2699,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sl2~3 繰り返し、微縦連、皿絡み、NORMAL判定 同梱譜面から8小節短縮",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2707,7 +2779,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "HSはMINBPMで。BSSとLNあり。ズレまじりの中速乱打。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2787,7 +2859,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3 by:goe) 皿複合、縦連打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2803,7 +2875,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "徐々に難しくなる乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2819,7 +2891,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:3 by:みっと) 皿　乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2851,7 +2923,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3～ by:quad) 連皿、乱打など",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2931,7 +3003,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "地力",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -2983,6 +3055,27 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "fc9ef11ca535cd6d10f95119b6798fce",
+    "org_level": 12,
+    "title": "MintChocoLover [BTBTHER]",
+    "artist": "BTB Illust:GATTOMOTTO",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "71d9e57e17885151621534abe36fd7e9",
+      "ade1f72bc413d57f2e816a31aff302c3",
+      "f3fb411ed3584370d0d070169200e082",
+      "fc9ef11ca535cd6d10f95119b6798fce"
+    ],
+    "org_md5": "71d9e57e17885151621534abe36fd7e9",
+    "comment": "",
+    "adddate": "1.3.2020"
+  },
+  {
     "md5": "f30a4ba83fc1f5aa63d985b21d1b812e",
     "org_level": 2,
     "title": "Rate Cranky Hi-roller BreaKdown",
@@ -2995,7 +3088,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打、皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3043,7 +3136,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3 by:marquee) 乱打, 微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3059,7 +3152,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3 by:R1N) 微縦連、乱打　正規当たり",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3147,7 +3240,7 @@
     "name_diff": "同梱譜面(spaaa.bms)",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "高速系。道中ところどころ微連打。終盤に32分や縦連絡みの小発狂。最後ソフラン。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3163,7 +3256,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3 by:SUZUKAZEΛ) 乱打,高速階段,皿複合,BGI同梱",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3195,7 +3288,7 @@
     "name_diff": "DL",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿・局所難",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3227,7 +3320,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:個人差★３ by:翠廻) ノマ半　中～低トータル　配置難　ランダムで易化？　瞬間発狂",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3275,7 +3368,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "プナイプナイ！",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3307,7 +3400,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3～4 by:SUZUKAZEΛ) 同時押し,乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3323,7 +3416,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "ガチ押し,高速階段,同時押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3339,7 +3432,7 @@
     "name_diff": "Shion",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "低速高密度。後半からさらに密度が増す。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3371,7 +3464,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同梱譜面",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3387,7 +3480,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3? by:monaka) 乱打、二重階段、トリル",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3403,7 +3496,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★3 by:7zs) 縦連　up00320の修正版",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3419,7 +3512,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打,同時押し,皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3435,7 +3528,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4、★9 by:quad) 乱打、縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3467,8 +3560,24 @@
     "name_diff": "アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up3372,[本体補足]GENOSIDEスターターパッケージ収録楽曲",
+    "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "d4fcc4230f3c58e41b7d303d61f78f94",
+    "org_level": 1,
+    "title": "BAILAGUA JIRA [EX]",
+    "artist": "MITCH DOWNVELL \/ obj. AXION",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/starkey.ivory.ne.jp\/bemusicwest\/bmw2\/detail\/view\/9\/",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=3894",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
   },
   {
     "md5": "e8862b3800a27b89951fbab8699b5ca0",
@@ -3483,7 +3592,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5,★10,★21 by:ω) 乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3515,7 +3624,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4, ★21 by:goe) 発狂",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3547,7 +3656,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4? by:w) [W] 連打、ガチ押し、皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3563,7 +3672,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5～6 by:SUZUKAZEΛ) 乱打,同時押し,微縦連,皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3579,7 +3688,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4～5 by:AME3) 同時押し、真ん中に半速あり",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3595,7 +3704,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5 by:\ud83d\ude97\ud83d\udca8) 乱打 微連打 皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3611,7 +3720,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5～6？ by:SUZUKAZEΛ) 微縦連,皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3627,7 +3736,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4～6? by:sitoras) 乱打,二重階段",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3675,7 +3784,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "微縦連,隣接,同時押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3739,7 +3848,7 @@
     "name_diff": "Fender",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "デニムやトリル。叩きにくい乱打。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3755,7 +3864,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5 by:rat) ディレイ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3787,7 +3896,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打、微縦連、軸",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3803,7 +3912,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "ガチ押し,皿複合,ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3835,7 +3944,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4 by:みすげ～) 縦連、二重配置、ちょっとLN",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3851,7 +3960,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "NORMAL判定、皿、対称、縦連。長い停止があり開始のタイミングが取りづらい。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3883,7 +3992,7 @@
     "name_diff": "morio",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押しと乱打。★16の下位互換。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3963,7 +4072,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4～5 by:SUZUKAZEΛ) 微縦連,皿複合,物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -3979,7 +4088,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "令和",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4031,6 +4140,22 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "dd221331a7dc4859d9b17691c263d792",
+    "org_level": 4,
+    "title": "Papilio xuthus [SEIRYU ANOTHER]",
+    "artist": "Brilliance obj:ξ青龍ξ",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=37&event=54",
+    "url_diff": "http:\/\/www.ribbit.xyz\/bms\/mirror\/uploader\/src\/up2628.zip",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
+  },
+  {
     "md5": "56ea97fb4b866310150d411b3b96a5ef",
     "org_level": 4,
     "title": "PARAMOUNT ANTHEM! [UR]",
@@ -4043,7 +4168,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4くらい by:kaguya) ＼ｱｯｶﾘ～ﾝ／",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4075,7 +4200,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5,★16 by:Restia) 連打,物量,ガチ押し,ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4091,7 +4216,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "隣接同時押し,軸",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4187,7 +4312,7 @@
     "name_diff": "旧アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BOF,G2R系全般up0260.zip",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4235,7 +4360,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "総合力、皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4267,8 +4392,24 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4 by:AYhaz) 色々",
+    "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "00703497ca4a00132313eedabfa350f3",
+    "org_level": 5,
+    "title": "underwater sunset (LUNATIC)",
+    "artist": "xarva \/ obj.Restia",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "https:\/\/1drv.ms\/u\/s!ApwaJAUHJdpyiCizcd3g3qPdAoXs",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=00154",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "",
+    "adddate": "29.2.2020"
   },
   {
     "md5": "30b6aff9eaa1d6c51152960a94ab72ff",
@@ -4283,7 +4424,7 @@
     "name_diff": "980円の人",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": " ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4347,7 +4488,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5 by:YOURI) 物量、同時押し、乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4379,7 +4520,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4～ by:???) 以前あげたやつの大幅修正版",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4395,7 +4536,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し,皿複合,微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4411,7 +4552,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5～6 by:SUZUKAZEΛ) 同時押し,ソフラン,LN",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4431,6 +4572,29 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "c4fb56811b0bf7c0b6f2635deaaf9416",
+    "org_level": 12,
+    "title": "冬星センチメンタル[AVALANCHE]",
+    "artist": "みーに feat. 初音ミク",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "ddfa2059028844baf38cf3e6a25927fd",
+      "82c9ec22b8d78c9c51eac51abbfef6d6",
+      "f86274c7cca4b83b4863adacdb72436a",
+      "4a6ab3571f5e8c4de0c0f9e08a43128a",
+      "ecea0a10a0973747fb65e08476680e65",
+      "c4fb56811b0bf7c0b6f2635deaaf9416"
+    ],
+    "org_md5": "ddfa2059028844baf38cf3e6a25927fd",
+    "comment": "",
+    "adddate": "1.3.2020"
+  },
+  {
     "md5": "fb1e45826560831f5e3076a7db3e6e57",
     "org_level": 4,
     "title": "幻雪夜 [豪雪]",
@@ -4443,7 +4607,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4 by:misty.ls04) 同時押し、皿複合、TOTAL値400(0.2%\/note)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4459,7 +4623,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5 by:???) 階段,乱打,軸縦連,皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4507,7 +4671,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4523,7 +4687,7 @@
     "name_diff": "siokaze",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速乱打。後半からズレも増える。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4539,7 +4703,7 @@
     "name_diff": "DL",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打<br><br>キー音ほぼ全部",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4555,7 +4719,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5～6 by:SUZUKAZEΛ) 物量,微縦連,皿絡み",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4651,7 +4815,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6～7 by:???) 乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4667,7 +4831,7 @@
     "name_diff": "siokaze",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速乱打。中盤に縦連。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4683,7 +4847,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6 by:quad) 乱打,縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4699,7 +4863,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sara, soflan, ln",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4715,7 +4879,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:~★7 by:Tristan97) Chordstream",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4731,7 +4895,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12、★7、★16、★22 by:selene.) 低難易度2譜面16分物量、高難易度2譜面ガチ押し　Otherリスペクト",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4747,7 +4911,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6~7 by:Triforce) 乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4779,7 +4943,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★7～9？ by:SUZUKAZEΛ) 皿複合(個人差),高速階段,微縦連,同時押し,ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4795,7 +4959,7 @@
     "name_diff": "Lampades",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "高速乱打。低トータルだが終盤は比較的簡単。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4811,7 +4975,7 @@
     "name_diff": "薄杏<\/a>",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "デニムを基調とした中速物量。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4843,7 +5007,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6～7 by:SUZUKAZEΛ) 微縦連,乱打,皿絡み",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4923,7 +5087,7 @@
     "name_diff": "eJ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "NORMAL判定。低BPMでの縦連絡む乱打、所謂ガチ押し系の譜面。挑戦段階だと密度にも苦戦する。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4955,7 +5119,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★7～8 by:SUZUKAZEΛ) 同時押し,皿複合,高速階段,繰り返し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -4987,7 +5151,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6~8 by:Lapis) 物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5003,7 +5167,7 @@
     "name_diff": "ELIGOS",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "準高速乱打。微縦連やトリルが多い。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5115,7 +5279,7 @@
     "name_diff": "Fender",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "32分ディレイのみの超高速乱打譜面。同時押しすらない点では▼0 日溜まりの街と似ている。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5131,7 +5295,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6 by:Lapis) 皿複合、乱打、縦連、皿ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5147,7 +5311,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BOFXV、ズレ、乱打 || BGA修正版 \/ please DL new version",
+    "comment": "",
     "adddate": "28.2.2020"
   },
   {
@@ -5179,7 +5343,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し,乱打,微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5195,7 +5359,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1~2,★6~7 by:Restia) 元曲はresource.txtにあります。ご参照ください。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5211,7 +5375,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6, ★★4~5 by:qtp13) ★6:皿複合,二重階段,トリル; ★★4~5: 皿複合,三重デニム,トリル,微縦連,プログレッシヴ (★22⇒★★5)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5227,7 +5391,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★7～8 by:SUZUKAZEΛ) 物量,階段,皿複合,壁",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5243,7 +5407,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6前後 by:NASA) 02847修正版 微局所発狂、トリル、皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5259,7 +5423,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "微縦連、隣接、皿複合。\u000aBPMほど叩きはそこまで速くはないが皿複合の微縦連がなかなかキツイが練習に。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5275,7 +5439,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6～7 by:ATOM) 皿複合・乱打　音少々追加",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5291,7 +5455,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★7～8 by:SUZUKAZEΛ) ハネ,微縦連,物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5323,7 +5487,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "ガチ押し,微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5403,7 +5567,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★7 by:NASA) 高速乱打→微発狂→中高速乱打→ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5435,7 +5599,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★7 by:quad) Merry Christmas~ (ハネ、ズレ)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5483,7 +5647,7 @@
     "name_diff": "A-zert",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "トリル含みの高密度で殺しにくる譜面。前半に連皿地帯あり。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5515,7 +5679,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6~7、★13~14 by:???) 軸 ハネ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5531,7 +5695,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6? by:Restia) 体力，物量, ガチ押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5547,7 +5711,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速微縦連複合。ラス殺し。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5563,7 +5727,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★7~8 by:Lorse) 乱打、微ズレ、体力譜面",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5579,7 +5743,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5 ~ ★8 by:制限) 二重階段、連打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5595,7 +5759,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し,ソフラン,LN",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5643,7 +5807,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿複合,ラス殺し,乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5659,7 +5823,7 @@
     "name_diff": "のれぽん",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "超高速乱打。低速。ラス殺し。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5691,7 +5855,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "▼3 HYPERの上位互換。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5707,7 +5871,7 @@
     "name_diff": "alt",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "縦連、皿、中盤ディレイ。ラス殺し。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5739,7 +5903,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★6~8? by:sellther vs Lennon) 皿複合、乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5771,7 +5935,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9~10 by:quad) 物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5803,7 +5967,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9~10、★★3~4 by:AXION) 乱打、連打",
+    "comment": "",
     "adddate": "27.2.2020"
   },
   {
@@ -5851,7 +6015,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5899,7 +6063,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆13(★9～10) by:swa) いつもの",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5915,7 +6079,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "壁,微縦連,皿絡み,ガチ押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -5931,7 +6095,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8～9 by:SUZUKAZEΛ) 乱打,トリル,高速階段,ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6027,7 +6191,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9,★20 by:quad) 物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6043,7 +6207,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "ins2 8",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6075,7 +6239,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9 by:screw) ラス殺し、Normal判定",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6091,7 +6255,7 @@
     "name_diff": "右クリック保存",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "★09",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6107,7 +6271,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2, ★8 by:w) 同時押し、ズレ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6155,7 +6319,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8 by:NASA) 壁、皿絡み、同時押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6171,7 +6335,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8 by:monaka) 乱打、ズレ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6219,7 +6383,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9,24 by:C4) ズレ乱打,2譜面間の瞬間密度は大きく異なります",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6299,7 +6463,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8-9 by:7zs) 縦連、皿複合、後半難",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6379,7 +6543,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8～9 by:quad) 微縦連、乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6396,22 +6560,6 @@
     "org_md5s": [ ],
     "org_md5": "",
     "comment": "",
-    "adddate": "26.2.2020"
-  },
-  {
-    "md5": "a4d49182fc876fe2f1ce1517082ea21d",
-    "org_level": 9,
-    "title": "The Island of Albatross [drrrr]",
-    "artist": "anubasu-anubasu BGA by 出前 \/ obj.rat",
-    "folder": "LEVEL 5",
-    "level": "5",
-    "lr2_bmsid": null,
-    "url": "https:\/\/mega.nz\/#F!UFsB0YyB!kwwXNr3CgJq-FvL19myHcA",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=2775",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "(level:★9? by:rat) ネタ差分、drrrr、追加音源あり",
     "adddate": "26.2.2020"
   },
   {
@@ -6481,7 +6629,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8~9? by:ふたば) up1718のタグ修正",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6497,7 +6645,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6513,7 +6661,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8 by:selene.) 乱打・体力",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6529,7 +6677,7 @@
     "name_diff": "右クリック保存",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": " ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6545,7 +6693,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:~★6-9(?) by:Tristan97) Chordstream",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6577,7 +6725,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9～10 by:SUZUKAZEΛ) 高速階段,ガチ押し,ズレ,地力",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6609,7 +6757,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8 by:Kojou Chihiro) 縦連,リズム難,皿,認識難,N判定,低TOTAL(65%)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6641,7 +6789,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1~2,★8~9,★16~17 by:Restia) 同時押し,連打,無キ―音少しあり,低速爆打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6657,7 +6805,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "保管に同梱 LN難易度表フォルダ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6673,7 +6821,7 @@
     "name_diff": "DL",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打・皿・縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6689,7 +6837,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5、★10 by:quad) 階段と乱打主体",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6705,7 +6853,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:たぶん★10強くらい by:AMERIA) 高速物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6721,7 +6869,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10~12 by:???) 同時押し、LN、乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6737,7 +6885,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sl6~7",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6769,7 +6917,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★8～9 by:SUZUKAZEΛ) 同時押し,皿複合,高速階段",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6785,7 +6933,7 @@
     "name_diff": "III",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up6762",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6801,7 +6949,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "局所難・乱打・CN",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6833,7 +6981,7 @@
     "name_diff": "あーさん",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿ましましの改編版。連皿ばかり降ってくる。(3\/1)▼10→▼11",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6881,7 +7029,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10 by:screw) ズレ、皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6897,7 +7045,7 @@
     "name_diff": "---",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BPM200超高速系。メインは16分の乱打だがBPM255のため打鍵感かなりはやい。また乱打という差分名だが皿成分も強め。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6929,7 +7077,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10 by:DOS) 縦連打、同時押し、皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -6977,7 +7125,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★11\/★23 by:にゃむ) ディレイ、階段、皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7009,7 +7157,7 @@
     "name_diff": "<a href='http:\/\/akred.web.fc2.com\/bmsfile\/Ladymade_DELAY.bme '>右クリック保存<\/a>",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "▼11",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7093,7 +7241,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "階段、縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7109,7 +7257,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10 by:quad) 連打複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7141,7 +7289,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10 by:???) 高速階段、ゲージ甘め、50万ボルト",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7173,7 +7321,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★11~12 by:Restia) 体力譜面,乱打,物量 FILES 03557 修正版",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7189,7 +7337,7 @@
     "name_diff": "VF",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "局所ディレイ。かなりのラス殺しで難逃げのほうが簡単かと思われる。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7221,7 +7369,7 @@
     "name_diff": "アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用 up0414.zip",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7253,7 +7401,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "ノーマル判定、ディレイ、物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7269,7 +7417,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10～11 by:SUZUKAZEΛ) 微縦連,乱打,皿絡み",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7317,7 +7465,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★11? by:???) 物量、皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7349,7 +7497,7 @@
     "name_diff": "アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用 up6964",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7365,7 +7513,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿複合(個人差),高速階段,微縦連,同時押し,ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7381,7 +7529,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9~★12くらい by:0kcal) 同時押し、乱打、低速",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7397,7 +7545,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★11 by:Restia) 00571修正版とTotal 回復上昇",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7413,7 +7561,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速乱打 脱力",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7445,7 +7593,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "物量,高速階段,皿絡み",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7461,7 +7609,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★11 by:岡部うすにごり) 乱打、ディレイ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7477,7 +7625,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し,ガチ押し,微縦連,皿複合",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7493,7 +7641,7 @@
     "name_diff": "siokaze",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速乱打。重発狂と微縦連と皿。。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7509,7 +7657,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10?, ★22~23, ★★5前後 by:zukocchi) 乱打　皿複合　連皿　（高難度のみ）ディレイ、ズレ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7525,7 +7673,7 @@
     "name_diff": "アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up1792",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7541,7 +7689,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10,★24 by:はむすぎ) 手動ディレイ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7557,7 +7705,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9~★11 by:MineC24) 地力、デニム",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7573,7 +7721,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★10～12 by:SUZUKAZEΛ) 乱打,微縦連,皿複合,LN,超物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7589,7 +7737,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★9~★12 by:MineC24) 同時押し+連打、最後に停止皿１枚",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7653,7 +7801,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★12ぐらい by:siokaze) 乱打、連皿、微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7669,7 +7817,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し,乱打,ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7685,7 +7833,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13? by:翠廻 vs NASA) 乱打(難配置)、微縦連、ソフラン",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7717,7 +7865,7 @@
     "name_diff": "jakko",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "物量乱打譜面。あまり密度の変わらない発狂が続く為、体力が必要。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7733,7 +7881,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★12 by:nytou) 二重階段、同時押し、縦連、TOTAL高め",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7749,7 +7897,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同时押  happy end of the world前作",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7797,7 +7945,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿絡み,軸,同時押し,デニム",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7813,7 +7961,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13 by:chan) 縦連 連皿 個人差",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7829,7 +7977,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:12 by:2024) 縦連、連皿、地力、LN、皿複合わりかし個人差寄り。中盤配置難。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7893,7 +8041,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13,★21 by:C4) ズレ乱打 ややラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7941,7 +8089,7 @@
     "name_diff": "NOTE+",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速地力系。高密度。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7957,7 +8105,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★1,★12,DP★7~8? by:C4) HARD判定発狂初級譜面、HARD判定中速乱打、比較的素直なHARD判定譜面",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -7989,7 +8137,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13 by:???) 昔ながらの中速乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8005,7 +8153,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★12? by:LuvTek) 乱打、微縦連 HS-FIX MINBPM 推奨 (動画：youtu.be\/4ygnxmUBihU)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8021,7 +8169,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:個人差★12 by:翠廻) 皿連　ノーマル判定　若干の癖と連打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8037,7 +8185,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13,★19,★23 by:Restia) 連打,皿,物量,地力",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8053,7 +8201,7 @@
     "name_diff": "BAECON",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "ソフラン、疑似停止。高速物量+3連打。終盤難。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8085,7 +8233,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★12 by:kuro) 乱打、二重階段、ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8101,7 +8249,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13~★14、sl7~8 by:R1N) 物量、デニム",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8117,7 +8265,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★11~13 by:KANS) デイレィ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8149,7 +8297,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13~14 by:Restia) 縦連,乱打,体力譜面,ガチ押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8165,7 +8313,7 @@
     "name_diff": "SUZUKAZEΛ",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "同時押し,皿複合,微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8197,7 +8345,7 @@
     "name_diff": "アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up6796",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8213,7 +8361,7 @@
     "name_diff": "siokaze",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "低速重発狂と12分連皿。休憩の無い物量系。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8229,7 +8377,7 @@
     "name_diff": "赤い人",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "物量乱打。★20の下位互換。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8261,7 +8409,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13 by:Rche) 乱打、微縦連(本体url同梱)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8277,7 +8425,7 @@
     "name_diff": "赤い人",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "長尺だが休憩も多い。基本的に階段系発狂。ラストに長めの回復。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8309,7 +8457,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★14 by:quad) 微縦連、物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8341,7 +8489,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★14? by:wiwe) 乱打、中盤難",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8373,7 +8521,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★13～14 by:AXION) 発狂、乱打",
+    "comment": "",
     "adddate": "27.2.2020"
   },
   {
@@ -8389,7 +8537,7 @@
     "name_diff": "po",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "高速乱打と声ネタ連皿複合の譜面。ラストは16分乱打に皿が複合してくるのでかなり難しい。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8405,7 +8553,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★14? by:rat) 半パン差分企画(そんなものはない)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8437,7 +8585,7 @@
     "name_diff": "siokaze",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "曲変更差分。NORMAL判定。縦連やズレの複合乱打。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8453,7 +8601,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★14 by:寺巣) 皿、縦連、対称、乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8485,7 +8633,7 @@
     "name_diff": "右クリック保存",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "★15",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8501,7 +8649,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★14 by:Eb2) 微縦連",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8517,7 +8665,7 @@
     "name_diff": "siokaze",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "物量",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8549,7 +8697,7 @@
     "name_diff": "右クリック保存",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": " ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8565,7 +8713,7 @@
     "name_diff": "アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up6874",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8597,7 +8745,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "乱打、ズレ、多重押し\u000a後半ゲー、そこまで速い叩きが無いのでボチボチなレベルになりました\u000a[BlackMax]\u000aマシマシの物量ですけど★14のつもりで作ったんですが弱かった。\u000aBGは、描かせてもらいました。",
+    "comment": "",
     "adddate": "28.2.2020"
   },
   {
@@ -8629,7 +8777,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8645,7 +8793,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中速乱打。たまに24分や32分複合。12縦連は連皿も含まれるので注意。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8661,7 +8809,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5, ★14 by:marquee) 物量乱打, 微縦連, 同時押し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8709,7 +8857,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "星-1",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8725,7 +8873,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★14-15 by:YSNY) 乱打、皿絡み",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8741,7 +8889,7 @@
     "name_diff": "アプロダ先",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用up2982",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8757,7 +8905,7 @@
     "name_diff": "BAECON",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "高速、皿複合。鍵盤は配置のタイプがコロコロ変わるので相応の見切り力が必要。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8773,7 +8921,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★15～16(sl9) by:trainer) 感謝系超物量乱打 (tinnitus[Other]の中速版みたいな)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8789,7 +8937,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★4?,★16? by:fhyu) 乱打・ディレイ・軸",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8805,7 +8953,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★16,★18 by:Fender) 物量譜面、中盤発狂",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8821,7 +8969,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★15~16? by:И) 乱打、皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8837,7 +8985,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★14～16 by:fhyu) 乱打・交互",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8853,7 +9001,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆12、★7、★16、★22 by:selene.) 低難易度2譜面16分物量、高難易度2譜面ガチ押し　Otherリスペクト",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8869,7 +9017,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★16,★23 by:selene.) 物量・★23はバス連打・皿複合あり\/難易度に影響を与える連皿は無し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8885,7 +9033,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2, ★16 by:goe) バナナマン",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8901,7 +9049,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★15 by:みっと) アサギさん主人公おめでとうございます",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8917,7 +9065,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★16 \/ ★★1 by:MineC24) 低Notes、ラス殺し！！！",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8933,7 +9081,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★5,★16 by:Restia) 連打,物量,ガチ押し,ラス殺し",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8949,7 +9097,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:☆9~★25 by:qtp13) Rispekk for Fendr. Pls enjoy gaem, no haet",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8981,7 +9129,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★16 by:Rche) ひたすら乱打",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -8997,7 +9145,7 @@
     "name_diff": "奈那樹",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "中盤のソフラン+連皿が発狂。その後BPM戻り回復だが密度高めでそれなりに難しい。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9013,7 +9161,7 @@
     "name_diff": "L.SMK",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BOF2013 TEAM : DejaVu",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9029,7 +9177,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:◎2～3 by:十六夜) 高速皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9045,7 +9193,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:◎5 by:???) さら",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9087,7 +9235,7 @@
     "name_diff": "ASCR_Tool",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "sara_cherry_doll_a",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9103,7 +9251,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★2～4？　◎3？ by:010m010) 皿、低TOTAL",
+    "comment": "",
     "adddate": "27.2.2020"
   },
   {
@@ -9119,7 +9267,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:◎3 by:十六夜) 片手力、階段",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9135,7 +9283,7 @@
     "name_diff": "http:\/\/www1.axfc.net\/u\/3454552",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "1to24PBPページhttp:\/\/www6.atpages.jp\/japancoolfuku\/1to24\/",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9151,7 +9299,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★? by:w) [FINAL SARA AUDITION] 連皿は、良いぞ。 連皿しよう、連皿。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9183,7 +9331,7 @@
     "name_diff": "夢瑠",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": " ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9199,7 +9347,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "皿",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9231,7 +9379,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "終盤難",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9247,7 +9395,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★15~16 by:vanity) 延々と皿複合　（以前に皿ろだにupしたものと同じです）",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9263,7 +9411,7 @@
     "name_diff": "jakko",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "up0023.lzh ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9311,7 +9459,7 @@
     "name_diff": "同梱譜面",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "連皿。フルメタ風バス・ハイハット・スネア+連皿。灼熱風トリル+連皿。LN、BSS。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9375,7 +9523,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "代理UP",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9391,7 +9539,7 @@
     "name_diff": "アップローダー",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "汎用ロダup1307 ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9407,7 +9555,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★? by:Rche) DOLCE.になるための譜面",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9423,7 +9571,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:★? by:Rche) DOLCE.になるための譜面",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9439,7 +9587,7 @@
     "name_diff": "夢瑠",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": " ",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9455,7 +9603,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:◎10 by:奈那樹)",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9519,7 +9667,7 @@
     "name_diff": "みすとん",
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "BOF2013 TEAM : 黒歴史",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9535,7 +9683,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:◎3（★5） by:???) スクラッチ（767\/1784）。TOTAL高め。",
+    "comment": "",
     "adddate": "26.2.2020"
   },
   {
@@ -9551,7 +9699,7 @@
     "name_diff": null,
     "org_md5s": [ ],
     "org_md5": "",
-    "comment": "(level:◎0~1 by:???) 819枚、皿LN",
+    "comment": "",
     "adddate": "26.2.2020"
   }
 ]
