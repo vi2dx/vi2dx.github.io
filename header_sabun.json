@@ -6,6 +6,7 @@
     "1",
     "3",
     "4",
+    "5",
     "◎"
   ],
   "folder_order": [ ],
@@ -14,8 +15,8 @@
   "entry_type": "",
   "data_url": "score_sabun.json",
   "compat_prefix": "LEVEL ",
-  "last_update": "3.4.2020",
+  "last_update": "9.4.2020",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "3.4.2020"
+  "output_date": "9.4.2020"
 }

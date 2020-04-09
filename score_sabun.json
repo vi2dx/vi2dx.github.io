@@ -21,6 +21,22 @@
     "adddate": "3.4.2020"
   },
   {
+    "md5": "4dff6bc617da9289d0e589226aab5235",
+    "org_level": 0,
+    "title": "FIELDER '87 [deadball]",
+    "artist": "MITCH DOWNVELL [obj. vi]",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=130",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04246",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[SPRING 9KEYS BLOSSOM] jacks, zure, gachi, scratches",
+    "adddate": "9.4.2020"
+  },
+  {
     "md5": "94f6d6cb981939882e9010f7230801e2",
     "org_level": 0,
     "title": "STAR TRACK (NiraicA_nai Mix) [constellation]",
@@ -130,6 +146,22 @@
     "org_md5": "738c44b97ad32bf1b23b5317c2e7c434",
     "comment": "[PABAT!2020] scratching, gachi",
     "adddate": "3.4.2020"
+  },
+  {
+    "md5": "df850f2aaef9b96034282ade35508c29",
+    "org_level": 5,
+    "title": "FIELDER '87 [deadball+]",
+    "artist": "MITCH DOWNVELL [obj. vi]",
+    "folder": "LEVEL 5",
+    "level": "5",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=130",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04246",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[SPRING 9KEYS BLOSSOM] jacks, zure, gachi, scratches",
+    "adddate": "9.4.2020"
   },
   {
     "md5": "76226877c8775723685f9aeedd43f436",
