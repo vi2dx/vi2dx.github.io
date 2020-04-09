@@ -480,22 +480,6 @@
     "adddate": "26.2.2020"
   },
   {
-    "md5": "4dff6bc617da9289d0e589226aab5235",
-    "org_level": null,
-    "title": "FIELDER '87 [deadball]",
-    "artist": "MITCH DOWNVELL [obj. vi]",
-    "folder": "LEVEL 0",
-    "level": "0",
-    "lr2_bmsid": null,
-    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=130",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04246",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "[SPRING 9KEYS BLOSSOM] jacks, zure, gachi, scratches",
-    "adddate": "9.4.2020"
-  },
-  {
     "md5": "acb6e70bd346adae9f2ad5589168e1e5",
     "org_level": 0,
     "title": "Forza Azzurri [ZOI]",
@@ -1711,6 +1695,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "4dff6bc617da9289d0e589226aab5235",
+    "org_level": 1,
+    "title": "FIELDER '87 [deadball]",
+    "artist": "MITCH DOWNVELL [obj. vi]",
+    "folder": "LEVEL 1",
+    "level": "1",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=7&event=130",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04246",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[SPRING 9KEYS BLOSSOM] jacks, zure, gachi, scratches",
+    "adddate": "9.4.2020"
   },
   {
     "md5": "741055d4142f1051c442ca4b94394231",
@@ -6290,7 +6290,7 @@
   },
   {
     "md5": "df850f2aaef9b96034282ade35508c29",
-    "org_level": null,
+    "org_level": 5,
     "title": "FIELDER '87 [deadball+]",
     "artist": "MITCH DOWNVELL [obj. vi]",
     "folder": "LEVEL 5",
