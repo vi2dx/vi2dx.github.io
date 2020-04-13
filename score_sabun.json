@@ -100,6 +100,27 @@
     "adddate": "3.4.2020"
   },
   {
+    "md5": "eb4b00531784e0b886276626d2b70577",
+    "org_level": 2,
+    "title": "RAVE NIGHTINGALE [eagle]",
+    "artist": "Hyparpax [obj. vi]",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=28&event=130",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04260",
+    "name_diff": null,
+    "org_md5s": [
+      "4704ade3cd3f9096ac6e7acafd48f139",
+      "b38605c477e9f8bb73b53d5c9ad8dcf0",
+      "eb4b00531784e0b886276626d2b70577",
+      "0565a4bfbe24d09fcbffaa97dcdbb884"
+    ],
+    "org_md5": "4704ade3cd3f9096ac6e7acafd48f139",
+    "comment": "[SPRING 9KEYS BLOSSOM] chordstream, scratching, bursts",
+    "adddate": "13.4.2020"
+  },
+  {
     "md5": "6bc274971258f68f0f72cdd2e73173a3",
     "org_level": 3,
     "title": "INLINE [mint]",
@@ -162,6 +183,27 @@
     "org_md5": "",
     "comment": "[SPRING 9KEYS BLOSSOM] jacks, zure, gachi, scratches",
     "adddate": "9.4.2020"
+  },
+  {
+    "md5": "0565a4bfbe24d09fcbffaa97dcdbb884",
+    "org_level": 7,
+    "title": "RAVE NIGHTINGALE [eagle+]",
+    "artist": "Hyparpax [obj. vi]",
+    "folder": "LEVEL 7",
+    "level": "7",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=28&event=130",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04260",
+    "name_diff": null,
+    "org_md5s": [
+      "4704ade3cd3f9096ac6e7acafd48f139",
+      "b38605c477e9f8bb73b53d5c9ad8dcf0",
+      "eb4b00531784e0b886276626d2b70577",
+      "0565a4bfbe24d09fcbffaa97dcdbb884"
+    ],
+    "org_md5": "4704ade3cd3f9096ac6e7acafd48f139",
+    "comment": "[SPRING 9KEYS BLOSSOM] chordstream, scratching, bursts",
+    "adddate": "13.4.2020"
   },
   {
     "md5": "76226877c8775723685f9aeedd43f436",
