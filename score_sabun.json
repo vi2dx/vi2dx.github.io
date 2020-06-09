@@ -222,7 +222,7 @@
   },
   {
     "md5": "1b7a27461b69a4f6c0a3bb10e2982287",
-    "org_level": 12,
+    "org_level": 4,
     "title": "8 Sentence \"To you favorite\" [MMVI]",
     "artist": "spinai [obj. vi]",
     "folder": "LEVEL 4",
@@ -264,7 +264,7 @@
   },
   {
     "md5": "798e0a00b9bd8274d29dc241543bc6a8",
-    "org_level": 9,
+    "org_level": 5,
     "title": "Blue Moment @`・ ω ・´@",
     "artist": "nixx × mentalstock [obj. vi]",
     "folder": "LEVEL 5",
@@ -352,8 +352,8 @@
     "adddate": "9.4.2020"
   },
   {
-    "md5": "71bdd0dd37b686f9d2a9ab9bb6792eae",
-    "org_level": 7,
+    "md5": "aa302178bcbb4432aa84524835ae0e07",
+    "org_level": 5,
     "title": "夕 [V]",
     "artist": "Kanata.S [obj. vi]",
     "folder": "LEVEL 5",
@@ -362,13 +362,8 @@
     "url": "https:\/\/mega.nz\/file\/cVcWgKiC#9fJkhEwcYXTEhJBJiIyHI-FTA0zt3phYptJH24vgPPU",
     "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04408",
     "name_diff": null,
-    "org_md5s": [
-      "650ce7ac4e0cbb5095119c704b3b6026",
-      "9dc7accfb557700b81ddbf8fab4895e0",
-      "37bf966d9d46ab0e0cc2ac5127487b33",
-      "71bdd0dd37b686f9d2a9ab9bb6792eae"
-    ],
-    "org_md5": "650ce7ac4e0cbb5095119c704b3b6026",
+    "org_md5s": [ ],
+    "org_md5": "",
     "comment": "[BMSかんじドリル] chords, LNs, zure, rolls",
     "adddate": "9.6.2020"
   },
