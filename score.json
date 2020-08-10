@@ -1058,6 +1058,29 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "7c4c44c8ce291b12e11b75e18c5a2376",
+    "org_level": 11,
+    "title": "your gaze [7keys ANOTHER]",
+    "artist": "Valentina G. [obj. vi]",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=28&event=132",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c5a2ca6ba438a5494c6590c7e1549203",
+      "250dd1457809addb4b7f0fc4db6fba85",
+      "7cf1af7acd85bde875c38b12e1af4c06",
+      "e8964e410482f8374342facbc5676161",
+      "7c4c44c8ce291b12e11b75e18c5a2376",
+      "ad4cf4271c27b44c238a61f1431e120f"
+    ],
+    "org_md5": "c5a2ca6ba438a5494c6590c7e1549203",
+    "comment": "[WORLD WAR] scratching, zure, gachi",
+    "adddate": "10.8.2020"
+  },
+  {
     "md5": "3162ff4e46e4f65e5d044cbc1a04b53b",
     "org_level": 0,
     "title": "ΦReboot[ANOTHER]",
@@ -5892,6 +5915,29 @@
     "adddate": "26.2.2020"
   },
   {
+    "md5": "ad4cf4271c27b44c238a61f1431e120f",
+    "org_level": 7,
+    "title": "your gaze [7keys MANIAC]",
+    "artist": "Valentina G. [obj. vi]",
+    "folder": "LEVEL 4",
+    "level": "4",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=28&event=132",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "c5a2ca6ba438a5494c6590c7e1549203",
+      "250dd1457809addb4b7f0fc4db6fba85",
+      "7cf1af7acd85bde875c38b12e1af4c06",
+      "e8964e410482f8374342facbc5676161",
+      "7c4c44c8ce291b12e11b75e18c5a2376",
+      "ad4cf4271c27b44c238a61f1431e120f"
+    ],
+    "org_md5": "c5a2ca6ba438a5494c6590c7e1549203",
+    "comment": "[WORLD WAR] scratching, zure, gachi",
+    "adddate": "10.8.2020"
+  },
+  {
     "md5": "8b628d4243961e11a23f98dc213dad13",
     "org_level": 7,
     "title": "Zeitmesser [FLOW]",
@@ -6034,6 +6080,22 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
+  },
+  {
+    "md5": "986522c558e3ebe3309a53abba93bff3",
+    "org_level": 4,
+    "title": "夕 [V]",
+    "artist": "Kanata.S [obj. vi]",
+    "folder": "LEVEL 4",
+    "level": "4",
+    "lr2_bmsid": null,
+    "url": "https:\/\/mega.nz\/file\/cVcWgKiC#9fJkhEwcYXTEhJBJiIyHI-FTA0zt3phYptJH24vgPPU",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04410",
+    "name_diff": null,
+    "org_md5s": [ ],
+    "org_md5": "",
+    "comment": "[BMSかんじドリル] chords, LNs, zure, rolls",
+    "adddate": "10.6.2020"
   },
   {
     "md5": "0c02c04520d93f31a78380d7b3d07795",
@@ -7019,22 +7081,6 @@
     "org_md5": "",
     "comment": "",
     "adddate": "26.2.2020"
-  },
-  {
-    "md5": "aa302178bcbb4432aa84524835ae0e07",
-    "org_level": 5,
-    "title": "夕 [V]",
-    "artist": "Kanata.S [obj. vi]",
-    "folder": "LEVEL 5",
-    "level": "5",
-    "lr2_bmsid": null,
-    "url": "https:\/\/mega.nz\/file\/cVcWgKiC#9fJkhEwcYXTEhJBJiIyHI-FTA0zt3phYptJH24vgPPU",
-    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04408",
-    "name_diff": null,
-    "org_md5s": [ ],
-    "org_md5": "",
-    "comment": "[BMSかんじドリル] chords, LNs, zure, rolls",
-    "adddate": "9.6.2020"
   },
   {
     "md5": "b8803d39696bafb17466b46a2ce11e7f",
