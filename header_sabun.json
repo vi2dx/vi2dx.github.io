@@ -2,6 +2,7 @@
   "name": "vi's 差分 laboratory",
   "symbol": "ⅵ",
   "level_order": [
+    "-1",
     "0",
     "1",
     "2",
@@ -17,8 +18,8 @@
   "entry_type": "",
   "data_url": "score_sabun.json",
   "compat_prefix": "LEVEL ",
-  "last_update": "8.8.2020",
+  "last_update": "17.8.2020",
   "editor_name": "BeMusicSeeker",
   "editor_version": "0.3.5.6",
-  "output_date": "10.8.2020"
+  "output_date": "17.8.2020"
 }

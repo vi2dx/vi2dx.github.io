@@ -1,5 +1,5 @@
 {
-  "name": "vi's 譜面 laboratory",
+  "name": "vi's 譜面 laboratory (provisional)",
   "symbol": "ⅵ",
   "level_order": [
     "-1",
@@ -12,14 +12,27 @@
     "6",
     "7",
     "8",
-    "?",
+    "9",
     "◎"
   ],
-  "folder_order": [ ],
+  "folder_order": [
+    "LEVEL -1",
+    "LEVEL 0",
+    "LEVEL 1",
+    "LEVEL 2",
+    "LEVEL 3",
+    "LEVEL 4",
+    "LEVEL 5",
+    "LEVEL 6",
+    "LEVEL 7",
+    "LEVEL 8",
+    "LEVEL 9",
+    "LEVEL ◎"
+  ],
   "folder_sort_key": "",
   "folder_sort_ascending": true,
   "entry_type": "",
-  "data_url": "score.json",
+  "data_url": "score_provisional.json",
   "compat_prefix": "LEVEL ",
   "last_update": "17.8.2020",
   "editor_name": "BeMusicSeeker",
