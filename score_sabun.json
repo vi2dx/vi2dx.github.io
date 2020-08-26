@@ -42,6 +42,37 @@
     "adddate": "3.4.2020"
   },
   {
+    "md5": "d00715d26d8754955266f57f6a018ece",
+    "org_level": 11,
+    "title": "Adansonia (8th MIX) [PARAMOUNT]",
+    "artist": "sweez, tigerlily, roop & Meine Meinung [obj. vi]",
+    "folder": "LEVEL 0",
+    "level": "0",
+    "lr2_bmsid": null,
+    "url": "https:\/\/roopdesign.net\/post\/34827532860\/roop-bms-works-2004-2012",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04564",
+    "name_diff": null,
+    "org_md5s": [
+      "239d22f0efd26aa4a2c7d30b86b359aa",
+      "e95e61f9aaa69a19292070a835e971f9",
+      "b49abe8b72dde370c5a890565398b97e",
+      "3192c9adf82e08fbeebeeb5661661f27",
+      "ee270030da4a205a721f64cb14bdcc66",
+      "dce379a6b6e76ef994c6eaa2abb0bf46",
+      "1c2cb7580fdb34824f0a01dc5ba6711d",
+      "f311ee93aef263d98bdf20661c54a24c",
+      "987a792a9f5bfbf9e3a119e50842ebf7",
+      "cb36e2db76e5e0d657dccdf3121a6e5d",
+      "44103df70e6179cac7c57ce22fd10abd",
+      "c01de61329ee409ef2c2370d89e3fa21",
+      "49911fb9231f064c36c715d39a291d70",
+      "d00715d26d8754955266f57f6a018ece"
+    ],
+    "org_md5": "239d22f0efd26aa4a2c7d30b86b359aa",
+    "comment": "[BOF2010] NORMAL, scratching, LNs",
+    "adddate": "26.8.2020"
+  },
+  {
     "md5": "94f6d6cb981939882e9010f7230801e2",
     "org_level": 0,
     "title": "STAR TRACK (NiraicA_nai Mix) [constellation]",
@@ -257,6 +288,27 @@
     "org_md5": "4704ade3cd3f9096ac6e7acafd48f139",
     "comment": "[SPRING 9KEYS BLOSSOM] chordstream, scratching, bursts",
     "adddate": "13.4.2020"
+  },
+  {
+    "md5": "50eb9409db1a540c666da2574459f445",
+    "org_level": 2,
+    "title": "SEKIDO @ ・ ω ・ @",
+    "artist": "DJ Eye [obj. vi]",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=35&event=132",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04566",
+    "name_diff": null,
+    "org_md5s": [
+      "895bc2be73e42a7dbc8c9701c0a6e3c5",
+      "53d861b11bb6338d4780122658296f5d",
+      "50eb9409db1a540c666da2574459f445",
+      "3c015d9d7735d4b6795b64f89cf23810"
+    ],
+    "org_md5": "895bc2be73e42a7dbc8c9701c0a6e3c5",
+    "comment": "[WORLD WAR] chordstream, chords, scratching, jacks",
+    "adddate": "26.8.2020"
   },
   {
     "md5": "6bc274971258f68f0f72cdd2e73173a3",
@@ -496,6 +548,27 @@
     "org_md5": "",
     "comment": "[SPRING 9KEYS BLOSSOM] jacks, zure, gachi, scratches",
     "adddate": "9.4.2020"
+  },
+  {
+    "md5": "3c015d9d7735d4b6795b64f89cf23810",
+    "org_level": 10,
+    "title": "SEKIDO @`・ ω ・´@",
+    "artist": "DJ Eye [obj. vi]",
+    "folder": "LEVEL 6",
+    "level": "6",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=35&event=132",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04566",
+    "name_diff": null,
+    "org_md5s": [
+      "895bc2be73e42a7dbc8c9701c0a6e3c5",
+      "53d861b11bb6338d4780122658296f5d",
+      "50eb9409db1a540c666da2574459f445",
+      "3c015d9d7735d4b6795b64f89cf23810"
+    ],
+    "org_md5": "895bc2be73e42a7dbc8c9701c0a6e3c5",
+    "comment": "[WORLD WAR] chordstream, chords, scratching, jacks",
+    "adddate": "26.8.2020"
   },
   {
     "md5": "0565a4bfbe24d09fcbffaa97dcdbb884",
