@@ -269,6 +269,30 @@
     "adddate": "3.4.2020"
   },
   {
+    "md5": "7bad4424fd014458822d467a15ba1eaf",
+    "org_level": 12,
+    "title": "MOVIE STAR★SPACE WAR [7keys SUPERSTAR]",
+    "artist": "Astolfo [obj. vi \/ BGI: mushyphungi]",
+    "folder": "LEVEL 2",
+    "level": "2",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=145&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "434fb42862fce32fe1e9a809d20c0e93",
+      "f643223831ba3e3712f1569fd5628270",
+      "7bad4424fd014458822d467a15ba1eaf",
+      "996f12e9753082b871232b6fa857c44a",
+      "e780c5e5b35f868802187a8475f4cb66",
+      "a5496f4ecc910e1d0d34ffc6e01e2889",
+      "e300606ba61cc850d32bd716b7e21079"
+    ],
+    "org_md5": "434fb42862fce32fe1e9a809d20c0e93",
+    "comment": "[BOFXVI] chords",
+    "adddate": "8.11.2020"
+  },
+  {
     "md5": "eb4b00531784e0b886276626d2b70577",
     "org_level": 2,
     "title": "RAVE NIGHTINGALE [eagle]",
@@ -309,6 +333,30 @@
     "org_md5": "895bc2be73e42a7dbc8c9701c0a6e3c5",
     "comment": "[WORLD WAR] chordstream, chords, scratching, jacks",
     "adddate": "27.8.2020"
+  },
+  {
+    "md5": "0be25515c7d537390e694dcc26310b67",
+    "org_level": 6,
+    "title": "Busy Factory [fast worker]",
+    "artist": "+ \/ movie:sgvc [obj. vi]",
+    "folder": "LEVEL 3",
+    "level": "3",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=349&event=104",
+    "url_diff": "http:\/\/gnqg.rosx.net\/upload\/upload.cgi?get=04647",
+    "name_diff": null,
+    "org_md5s": [
+      "8a1165c593dd0458b9e25255bd4b3cfa",
+      "4bd640ef9e9784cc1d415185c3edc1a8",
+      "87212baff8bc96d7e93b1190672995a5",
+      "6c4875cde46d723d6c314f233025cac5",
+      "fb6ecaf4baf23f69371010ce707fe0be",
+      "248077b9eefd7065faaf41267e5ad691",
+      "0be25515c7d537390e694dcc26310b67"
+    ],
+    "org_md5": "8a1165c593dd0458b9e25255bd4b3cfa",
+    "comment": "[BOFU2015] \"100min Fumen Cooking!!\" chordstream, jacks, low TOTAL",
+    "adddate": "8.11.2020"
   },
   {
     "md5": "6bc274971258f68f0f72cdd2e73173a3",
@@ -608,6 +656,30 @@
     "org_md5": "",
     "comment": "[SPRING 9KEYS BLOSSOM] jacks, zure, gachi, scratches",
     "adddate": "9.4.2020"
+  },
+  {
+    "md5": "996f12e9753082b871232b6fa857c44a",
+    "org_level": 9,
+    "title": "MOVIE STAR★SPACE WAR [7keys LOVE IS THE SPACE WAR]",
+    "artist": "Astolfo [obj. vi \/ BGI: mushyphungi]",
+    "folder": "LEVEL 5",
+    "level": "5",
+    "lr2_bmsid": null,
+    "url": "http:\/\/manbow.nothing.sh\/event\/event.cgi?action=More_def&num=145&event=133",
+    "url_diff": "",
+    "name_diff": null,
+    "org_md5s": [
+      "434fb42862fce32fe1e9a809d20c0e93",
+      "f643223831ba3e3712f1569fd5628270",
+      "7bad4424fd014458822d467a15ba1eaf",
+      "996f12e9753082b871232b6fa857c44a",
+      "e780c5e5b35f868802187a8475f4cb66",
+      "a5496f4ecc910e1d0d34ffc6e01e2889",
+      "e300606ba61cc850d32bd716b7e21079"
+    ],
+    "org_md5": "434fb42862fce32fe1e9a809d20c0e93",
+    "comment": "[BOFXVI] chords",
+    "adddate": "8.11.2020"
   },
   {
     "md5": "f76b1d56ffcaf330a197f656a9048049",
